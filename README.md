@@ -19,5 +19,5 @@ Olá, eu sou o Alzemar Junior
 - Linkedin https://www.linkedin.com/in/alzemar-junior-a-melhor-escolha/
 - Twitter @alzemar_junior
 - Instagram @junioralzemar
-- Git @JuniorAlzemar
+- Git @Alzemar
 - Email alzemar.fisica@gmail.com
